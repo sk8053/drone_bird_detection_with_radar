@@ -1,0 +1,25 @@
+# attenuation factor region [a1, a2]
+# attenuation factor would be sampled from [a1, a2] at random during training andt testing
+a1: 0.05
+a2: 0.95
+
+# hyper-parameters for Convolutional LSTM classifier
+n_epoch_conv_lstm: 10
+n_hidden_conv_lstm: 12
+n_sample_size_conv_lstm: 1000
+n_iter_conv_lstm: 50
+SNRs_conv_lstm: [-5, -2, 0, 2, 5, 7, 10, 15, 20, 25, 30]
+lr_conv_lstm: 5.0e-5
+batch_size_conv_lstm: 32
+time_bin_size_conv_lstm: 5
+
+
+# hyper parameters for convolutional classifier
+n_epoch_conv: 50
+n_sample_size_conv: 2000
+n_iter_conv: 100
+SNRs_conv: [-5, -2, 0, 2, 5, 7, 10, 15, 20, 25, 30]
+lr_conv: 5.0e-5
+batch_size_conv: 64
+
+
