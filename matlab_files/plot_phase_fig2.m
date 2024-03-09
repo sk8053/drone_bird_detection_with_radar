@@ -50,7 +50,7 @@ set(lg2,...
 xlabel(t, 'Time [ms]','fontsize',15,'interpreter', 'latex');
 %ylabel('Phase[$^\circ$]','fontsize',16,'interpreter', 'latex');
 ylim([-130, -55])
-title('DJI mavic drone', 'FontSize',15,'FontName','times new roman');
+title('DJI mavic', 'FontSize',15,'FontName','times new roman');
 %ax.YAxis.FontSize = 15;
 %ax.XAxis.FontSize = 15;
 

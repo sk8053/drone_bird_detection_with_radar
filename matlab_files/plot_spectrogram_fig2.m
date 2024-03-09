@@ -71,7 +71,7 @@ ax.GridLineWidth = 2;
 ax.YAxis.FontSize = 10;
 ax.XAxis.FontSize = 10;
 xlabel (tile, 'Time [ms]', 'fontsize', 16, 'fontname', 'times new roman');
-title('DJI mavic drone', 'FontSize',16,'FontName','times new roman');
+title('DJI mavic', 'FontSize',16,'FontName','times new roman');
 
 set(gcf,'Position',[100 100 600 300]);
 %yticklabels([]);
