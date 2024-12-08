@@ -1,1 +1,7 @@
-# Drone and Bird Classification with 60GHz Radar Data
+# Millimeter Wave Radar Measurements: Distinguishing UAS and Birds Based on 60 GHz micro-Doppler Signatures
+
+This work presents the results of measurements conducted on small drones and a bionic bird using a 60 GHz millimeter wave radar, analyzing their micro-Doppler characteristics in both time and frequency domains. In particular, we focus on their distinct nature of movement, i.e., rotating propellers and flapping wings, rather than relying on their materials. The time-series measurements show comparable differences in the phase of the samples as a result of micro-Doppler effects. Utilizing the collected measurement data, we develop neural network models to accurately differentiate between bionic birds and drones, having a significant potential for application in airports where precise object identification is essential. We adopt a convolutional neural network for detecting changes in the amplitude values and a convolutional long- and short-term memory for identifying the phase difference between the drone and bird signatures. The results reveal that distinguishing between small drones and birds can be done based on the phase difference of the scattered radar signals, even with a high noise variance.
+
+Seongjoon Kang; Henrik Forstén; Panagiotis Skrimponis; Martins Ezuma; Marco Mezzavilla; Ismail Guvenc; Sundeep Rangan; Vasilii Semkin: https://ieeexplore.ieee.org/abstract/document/10757735/authors
+
+This is published [IEEE VTC2024 Fall workshop](https://events.vtsociety.org/vtc2024-fall/) 
