@@ -4,4 +4,4 @@ This work presents the results of measurements conducted on small drones and a b
 
 Seongjoon Kang; Henrik Forstén; Panagiotis Skrimponis; Martins Ezuma; Marco Mezzavilla; Ismail Guvenc; Sundeep Rangan; Vasilii Semkin: https://ieeexplore.ieee.org/abstract/document/10757735/authors
 
-This is published [IEEE VTC2024 Fall workshop](https://events.vtsociety.org/vtc2024-fall/) 
+This paper is published [IEEE VTC2024 Fall workshop](https://events.vtsociety.org/vtc2024-fall/) 
